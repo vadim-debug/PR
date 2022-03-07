@@ -1,0 +1,8 @@
+D:\Project\VS\Pr4V\Pr4V\bin\Debug\Pr4V.exe.config
+D:\Project\VS\Pr4V\Pr4V\bin\Debug\Pr4V.exe
+D:\Project\VS\Pr4V\Pr4V\bin\Debug\Pr4V.pdb
+D:\Project\VS\Pr4V\Pr4V\obj\Debug\Pr4V.csproj.AssemblyReference.cache
+D:\Project\VS\Pr4V\Pr4V\obj\Debug\Pr4V.csproj.SuggestedBindingRedirects.cache
+D:\Project\VS\Pr4V\Pr4V\obj\Debug\Pr4V.csproj.CoreCompileInputs.cache
+D:\Project\VS\Pr4V\Pr4V\obj\Debug\Pr4V.exe
+D:\Project\VS\Pr4V\Pr4V\obj\Debug\Pr4V.pdb
